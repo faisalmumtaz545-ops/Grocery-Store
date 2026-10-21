@@ -1,0 +1,6 @@
+{
+  "name": "Alfaisal Grocery Store",
+  "description": "Alfaisal Grocery Store - Modern Online Grocery Store with Fresh Produce, Dairy, Bakery, Pantry Staples and Same-Day Delivery in Pakistan (PKR).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
